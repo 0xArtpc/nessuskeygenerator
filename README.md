@@ -1,18 +1,13 @@
-# Nessus Any Key Generator
+# Nessus Key Generator
 
-This Python script allows you to generate Nessus Professional Keys directly without having to fill out the registration form. It simplifies the process and makes it more convenient for users to get started with Nessus.
+This Python script allows you to generate Nessus Keys directly without having to fill out the registration form. It simplifies the process and makes it more convenient for users to get started with Nessus.
 
 
-To generate a Nessus Professional Key using the script, simply run the following command:
+To generate a Nessus Key using the script, simply run the following command:
 
 ```bash
 python3 nessuskeygen.py
 ```
-
-Choose the Key type that you want,
-1 - Professional
-2 - Expert
-3 - Essentials
 
 ## Start or Stop Nessus
 

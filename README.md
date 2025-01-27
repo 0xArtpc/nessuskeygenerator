@@ -9,6 +9,11 @@ To generate a Nessus Professional Key using the script, simply run the following
 python3 nessuskeygen.py
 ```
 
+Choose the Key type that you want,
+1 - Professional
+2 - Expert
+3 - Essentials
+
 ## Start or Stop Nessus
 
 ### Linux Command-Line Operation
